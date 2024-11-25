@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there!
+I'm a mathematics student at Tsinghua University. My main interests lie in **Probability Theory** and **Theoretical Computer Science**
+
+## How to reach me:
+tangzh23@mails.tsinghua.edu.cn
 
 <!--
 **Tang-zihan/Tang-zihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
